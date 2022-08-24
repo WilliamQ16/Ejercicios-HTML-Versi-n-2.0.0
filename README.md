@@ -7,7 +7,7 @@
 ## Fecha Creación: 1 de Agosto del 2022
 ## Versión: 2.0.0
 
-Ejercicios HTML adaptados para HTML5 según los estándares W3C, con la eliminación de etiquetas obsoletas para esta versión del HTML. De la siguiente manera:
+Ejercicios HTML adaptados para HTML5 según los estándares W3C, quien se encarga de dar recomendaciones y estándares para preservar un buen manejo en este caso de HTML5; también se procede con la eliminación de etiquetas obsoletas para esta versión del HTML. De la siguiente manera:
 
 ### Código HTML adaptado
 
